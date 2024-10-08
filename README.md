@@ -1,1 +1,1 @@
-Relation Time-aware Heterogeneous Dynamic Graph Neural Networks are accepted by ECAI 2024！
+Relation Time-aware Heterogeneous Dynamic Graph Neural Networks have been accepted for presentation at ECAI 2024!
